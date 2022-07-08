@@ -1,0 +1,19 @@
+{
+  "cwd": "/Users/yoyo930021/universetech/test-f7",
+  "type": [
+    "web"
+  ],
+  "name": "My App",
+  "framework": "vue",
+  "template": "single-view",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": false,
+    "fillBars": false
+  },
+  "customBuild": false
+}
