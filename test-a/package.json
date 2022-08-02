@@ -1,0 +1,8 @@
+{
+  "name": "test-a",
+  "version": "1.0.0",
+  "exports": {
+    ".": "./index.js",
+    "./components/date-picker": "./components/date-picker/index.vue"
+  }
+}

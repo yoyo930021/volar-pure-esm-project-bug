@@ -2,6 +2,7 @@
   "name": "volar-pure-esm-project-bug",
   "private": true,
   "version": "1.0.0",
+  "workspaces": ["test-a"],
   "description": "My App",
   "repository": "",
   "license": "UNLICENSED",
